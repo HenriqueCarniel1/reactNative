@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "72180040-f7dc-4dd6-962b-9f4c012fe667"
+      }
+    },
+    "android": {
+      "package": "com.henrique_carniel.PeopleManager"
+    }
+  }
+}
